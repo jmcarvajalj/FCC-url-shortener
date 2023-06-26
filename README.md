@@ -4,7 +4,7 @@ This is the URL Shortener Microservice project. This project is part of the Back
 
 Replit link: https://boilerplate-project-urlshortener.jose-miguelm376.repl.co/
 
-https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice
+https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice
 
 <h2>Setup</h2>
 <h5>Steps</h5>
